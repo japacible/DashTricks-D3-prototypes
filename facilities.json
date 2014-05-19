@@ -1,0 +1,37 @@
+{
+  "facilities": [
+    {
+      "type": "Point",
+      "properties": {
+        "name": "Gwadar",
+        "coverage": 91
+      },
+      "coordinates": [
+        500,
+        500
+      ]
+    },
+    {
+      "type": "Point",
+      "properties": {
+        "name": "Zhob",
+        "coverage": 45
+      },
+      "coordinates": [
+        200,
+        600
+      ]
+    },
+    {
+      "type": "Point",
+      "properties": {
+        "name": "Gilgit",
+        "coverage": 67
+      },
+      "coordinates": [
+        600,
+        300
+      ]
+    }
+  ]
+}
